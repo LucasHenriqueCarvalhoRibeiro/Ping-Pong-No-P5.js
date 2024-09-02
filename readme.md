@@ -13,6 +13,6 @@ Reiniciando o Jogo:
 Quando o jogo terminar (um jogador atingir a pontuação máxima), pressione a tecla R para reiniciar o jogo.
 
 
-cirado por d x bybetamario
+criado por d x bybetamario
 
 https://editor.p5js.org/lucashenrique87/sketches/zWJ_wM9T2
